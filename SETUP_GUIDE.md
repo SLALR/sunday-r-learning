@@ -15,8 +15,8 @@ This guide walks you through setting up the Sunday R Learning Group repository f
 1. **Go to SLALR organization**: https://github.com/SLALR
 2. **Click "New repository"**
 3. **Configure:**
-   - Name: `sunday-r-learning-2025`
-   - Description: `Collaborative learning project for building R/Shiny portfolio pieces throughout 2025`
+   - Name: `sunday-r-learning-2026`
+   - Description: `Collaborative learning project for building R/Shiny portfolio pieces throughout 2026`
    - Visibility: Public (recommended) or Private
    - ✅ Initialize with README
    - ✅ Add .gitignore: R
@@ -31,8 +31,8 @@ This guide walks you through setting up the Sunday R Learning Group repository f
 ### Clone the repository
 
 ```bash
-git clone https://github.com/SLALR/sunday-r-learning-2025.git
-cd sunday-r-learning-2025
+git clone https://github.com/SLALR/sunday-r-learning-2026.git
+cd sunday-r-learning-2026
 ```
 
 ### Add all the files from this project
@@ -40,7 +40,7 @@ cd sunday-r-learning-2025
 Copy all files from this structure into your cloned repository:
 
 ```
-sunday-r-learning-2025/
+sunday-r-learning-2026/
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
@@ -142,7 +142,7 @@ gh label create "good-first-issue" --color "7057ff" --description "Good for newc
 1. Go to https://github.com/orgs/SLALR/projects
 2. Click "New project"
 3. Select "Board" template
-4. Name: "2025 Sunday Learning Progress"
+4. Name: "2026 Sunday Learning Progress"
 5. Click "Create"
 
 ### Configure Project Board
@@ -177,19 +177,19 @@ Go to Issues → Milestones → New milestone
 Create these four milestones:
 
 **Q1: Shiny Dashboard**
-- Due: March 30, 2025
+- Due: March 30, 2026
 - Description: Deploy production-ready Shiny dashboard
 
 **Q2: R Package Development**
-- Due: June 29, 2025
+- Due: June 29, 2026
 - Description: Publish R package with documentation
 
 **Q3: Data Story Project**
-- Due: September 28, 2025
+- Due: September 28, 2026
 - Description: Complete data analysis with published website
 
 **Q4: Capstone Integration**
-- Due: December 31, 2025
+- Due: December 31, 2026
 - Description: Production-ready capstone project
 
 ---
@@ -209,17 +209,17 @@ Create these four milestones:
 ### Send Invitation Email Template
 
 ```
-Subject: Welcome to Sunday R Learning Group 2025!
+Subject: Welcome to Sunday R Learning Group 2026!
 
 Hi [Name],
 
 You're invited to join the Sunday R Learning Group GitHub repository!
 
-Repository: https://github.com/SLALR/sunday-r-learning-2025
+Repository: https://github.com/SLALR/sunday-r-learning-2026
 
 Next steps:
 1. Accept the GitHub invitation
-2. Read the README: https://github.com/SLALR/sunday-r-learning-2025/blob/main/README.md
+2. Read the README: https://github.com/SLALR/sunday-r-learning-2026/blob/main/README.md
 3. Review CONTRIBUTING.md for guidelines
 4. Add your name to the participants table in README.md (via PR)
 5. Join our [Discord/Slack] channel: [link]

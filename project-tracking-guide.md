@@ -20,7 +20,7 @@ GitHub Projects provides a kanban-style board perfect for tracking:
 1. Go to https://github.com/orgs/SLALR/projects
 2. Click "New project"
 3. Choose "Board" template
-4. Name: "2025 Learning Progress"
+4. Name: "2026 Learning Progress"
 
 **Configure columns:**
 - 📋 **Backlog** - Future tasks/ideas
@@ -45,7 +45,7 @@ Each person can create their own project for detailed tracking:
 **Setup:**
 1. In your fork: Settings → Projects → New project
 2. Choose "Board" template
-3. Name: "[Your Name] - 2025 Projects"
+3. Name: "[Your Name] - 2026 Projects"
 
 **Columns:**
 - 📋 **Ideas** - Future project ideas
@@ -77,7 +77,7 @@ Each person can create their own project for detailed tracking:
 - [ ] All apps publicly accessible
 - [ ] Documentation complete
 
-**Timeline:** Jan 5 - March 30, 2025
+**Timeline:** Jan 5 - March 30, 2026
 ```
 
 ### For Individual Tasks
@@ -97,7 +97,7 @@ Each person can create their own project for detailed tracking:
 
 **Blockers:** None
 
-**Due:** January 21, 2025
+**Due:** January 21, 2026
 ```
 
 ---
@@ -170,7 +170,7 @@ Use milestones for major checkpoints:
 
 **Q1 Milestone:**
 - Title: "Q1: Shiny Dashboard"
-- Due date: March 30, 2025
+- Due date: March 30, 2026
 - Description: Deploy production-ready dashboard
 
 **Create milestone:**

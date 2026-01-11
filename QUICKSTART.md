@@ -10,7 +10,7 @@ Check your email for a GitHub invitation from SLALR organization. Click the link
 
 ### 2. Explore the Repository (3 min)
 
-Visit: https://github.com/SLALR/sunday-r-learning-2025
+Visit: https://github.com/SLALR/sunday-r-learning-2026
 
 **Read:**
 - [ ] Main README (overview of year plan)
@@ -62,7 +62,7 @@ Create your introduction issue:
 1. **Install GitHub Desktop**
 2. **Clone repository:**
    - File → Clone repository
-   - Search "sunday-r-learning-2025"
+   - Search "sunday-r-learning-2026"
    - Choose location on your computer
    - Click "Clone"
 
@@ -82,8 +82,8 @@ Create your introduction issue:
 
 ```bash
 # Clone the repository
-git clone https://github.com/SLALR/sunday-r-learning-2025.git
-cd sunday-r-learning-2025
+git clone https://github.com/SLALR/sunday-r-learning-2026.git
+cd sunday-r-learning-2026
 
 # Create your project folder
 cd Q1-Shiny-Dashboard

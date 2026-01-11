@@ -240,7 +240,7 @@ If no visual, describe what's working:
 
 ### Week 3 Update - Sarah
 
-**Date**: January 21, 2025  
+**Date**: January 21, 2026  
 **Quarter**: Q1  
 **Project**: PharmaMetrics Dashboard
 
