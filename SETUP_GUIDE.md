@@ -15,7 +15,7 @@ This guide walks you through setting up the Sunday R Learning Group repository f
 1. **Go to SLALR organization**: https://github.com/SLALR
 2. **Click "New repository"**
 3. **Configure:**
-   - Name: `sunday-r-learning-2026`
+   - Name: `sunday-r-learning`
    - Description: `Collaborative learning project for building R/Shiny portfolio pieces throughout 2026`
    - Visibility: Public (recommended) or Private
    - ✅ Initialize with README
@@ -31,8 +31,8 @@ This guide walks you through setting up the Sunday R Learning Group repository f
 ### Clone the repository
 
 ```bash
-git clone https://github.com/SLALR/sunday-r-learning-2026.git
-cd sunday-r-learning-2026
+git clone https://github.com/SLALR/sunday-r-learning.git
+cd sunday-r-learning
 ```
 
 ### Add all the files from this project
@@ -40,7 +40,7 @@ cd sunday-r-learning-2026
 Copy all files from this structure into your cloned repository:
 
 ```
-sunday-r-learning-2026/
+sunday-r-learning/
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
@@ -215,11 +215,11 @@ Hi [Name],
 
 You're invited to join the Sunday R Learning Group GitHub repository!
 
-Repository: https://github.com/SLALR/sunday-r-learning-2026
+Repository: https://github.com/SLALR/sunday-r-learning
 
 Next steps:
 1. Accept the GitHub invitation
-2. Read the README: https://github.com/SLALR/sunday-r-learning-2026/blob/main/README.md
+2. Read the README: https://github.com/SLALR/sunday-r-learning/blob/main/README.md
 3. Review CONTRIBUTING.md for guidelines
 4. Add your name to the participants table in README.md (via PR)
 5. Join our [Discord/Slack] channel: [link]
