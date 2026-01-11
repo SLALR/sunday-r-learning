@@ -200,7 +200,6 @@ output$plot <- renderPlot({
 - Tried different plot types
 
 **Environment**: R 4.3, Shiny 1.8, ggplot2 3.4
-```
 
 ### Giving Help
 
@@ -517,4 +516,4 @@ Every contribution, question, and project makes our group better.
 
 ---
 
-*Last updated: January 2025*
+*Last updated: January 2026*
