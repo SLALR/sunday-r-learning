@@ -552,7 +552,7 @@ Create a certificate for participants who complete 3+ projects:
 ```
 CERTIFICATE OF COMPLETION
 
-[Name] has successfully completed the 2025 Sunday R Learning Program
+[Name] has successfully completed the 2026 Sunday R Learning Program
 
 Projects Completed:
 ✅ Q1: Shiny Dashboard
@@ -568,7 +568,7 @@ Skills Demonstrated:
 • Production Deployment
 • Open Source Contribution
 
-Completed: December 2025
+Completed: December 2026
 ```
 
 ---
@@ -584,7 +584,7 @@ Create a shared resource document with:
 
 ---
 
-## 🏆 Hall of Fame - 2025 Cohort
+## 🏆 Hall of Fame - 2026 Cohort
 
 | Name | Q1 Project | Q2 Package | Q3 Analysis | Q4 Capstone | GitHub |
 |------|------------|------------|-------------|-------------|--------|
